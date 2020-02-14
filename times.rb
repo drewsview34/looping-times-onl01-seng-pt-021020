@@ -1,8 +1,8 @@
-phrase = "Wingardium Leviosa"
+# phrase = "Wingardium Leviosa"
 
 def using_times(looping_string)
   7.times do
-    puts phrase
+    puts looping_string
   end
 end
 
